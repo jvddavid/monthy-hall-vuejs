@@ -1,5 +1,6 @@
 {
   "name": "monthy-hall-vuejs",
+  "title": "Monthy Hall VueJS",
   "version": "0.1.0",
   "private": true,
   "scripts": {
